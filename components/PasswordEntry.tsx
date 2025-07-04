@@ -67,7 +67,7 @@ const passwordMap: Record<string, ContentData> = {
   },
   margarita: {
     image: "https://cdn.dogmanfestperu.com/GnjknYWWIAAeiWy.jpg",
-    audioSrc: "https://cdn.dogmanfestperu.com/GnjknYWWIAAeiWy.jpg",
+    audioSrc: "https://cdn.dogmanfestperu.com/Travesuras.mp3",
     artistName: "RayBunny",
     socialLink: "https://x.com/RayBunny18/status/1907525810065465367",
     description: "Yo tmb me quería unir al trend❤️",
