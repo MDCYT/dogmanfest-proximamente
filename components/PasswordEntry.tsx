@@ -207,6 +207,14 @@ const passwordMap: Record<string, ContentData> = {
     description:
       "Hola, soy MDC, nidea como encontraste esto, pero te presento a mi OC Dipron y Oliver",
   },
+  grampa:  {
+    image: "https://cdn.dogmanfestperu.com/Gu4hby0XAAAQ4VM.jpg",
+    audioSrc: "https://cdn.dogmanfestperu.com/Mayores.mp3",
+    artistName: "Damo",
+    socialLink: "https://x.com/damo_art/status/1940530928952267221?t=eNYRmJ6GDcpSpBFZRUQXug",
+    description:
+      "Man of the year !!! ✨💚✨ No eres el jefe sin algunos rasguños...",
+  },
 };
 
 export function PasswordEntry() {
